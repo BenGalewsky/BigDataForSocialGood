@@ -28,7 +28,7 @@
 ## Project Oasis
 * [Challenge Post](http://challengepost.com/software/oasis)
 * [Business License Dataset](https://data.cityofchicago.org/Community-Economic-Development/Business-Licenses/r5kz-chrr)
-* [Census Tracts in Illinois] (https://www.census.gov/geo/maps-data/data/docs/gazetteer/census_tracts_list_17.txt)
+* [Census Tracts in Illinois] (https://www.census.gov/geo/maps-data/data/gazetteer2014.html)
 * [Mapping between census tract and community areas] (http://robparal.blogspot.com/2012/04/census-tracts-in-chicago-community.html)
 
 

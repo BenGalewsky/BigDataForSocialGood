@@ -23,6 +23,7 @@
 * [Tabula] (http://tabula.technology/)
 * [import.io] (https://import.io/)
 * [Pentaho Data Integration] (http://community.pentaho.com/projects/data-integration/)
+* [Tableau Public](https://public.tableau.com/s/gallery)
 * [Open Government Hack Night Project Repos] (http://opengovhacknight.org/projects.html)
 
 ## Project Oasis

@@ -17,14 +17,14 @@
 * [Potholes Filled](https://data.cityofchicago.org/Service-Requests/Potholes-Patched-Last-Seven-Days/xpdx-8ivx)
 * [Chicago Crime Data](https://data.cityofchicago.org/Public-Safety/Crimes-2001-to-present/ijzp-q8t2)
 * [Divvy Bike Data] (https://www.divvybikes.com/datachallenge)
-* [Open Government Hack Night Resources] (http://opengovhacknight.org/resources.html)
+* [Open Government Hack Night Resources] (http://chihacknight.org/data-resources.html)
 
 ## Useful tools of the trade
 * [Tabula] (http://tabula.technology/)
 * [import.io] (https://import.io/)
 * [Pentaho Data Integration] (http://community.pentaho.com/projects/data-integration/)
 * [Tableau Public](https://public.tableau.com/s/gallery)
-* [Open Government Hack Night Project Repos] (http://opengovhacknight.org/projects.html)
+* [Open Government Hack Night Project Repos] (http://chihacknight.org/open-source-projects.html)
 
 ## Project Oasis
 * [Challenge Post](http://challengepost.com/software/oasis)

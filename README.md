@@ -24,6 +24,7 @@
 * [import.io] (https://import.io/)
 * [Pentaho Data Integration] (http://community.pentaho.com/projects/data-integration/)
 * [Tableau Public](https://public.tableau.com/s/gallery)
+* [Apache Pig] (https://pig.apache.org/)
 * [Open Government Hack Night Project Repos] (http://chihacknight.org/open-source-projects.html)
 
 ## Project Oasis

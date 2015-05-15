@@ -1,7 +1,7 @@
 # BigDataForSocialGood
 
 ## Introduction to Civic Hacking
-* [Open Government Hack Night](http://opengovhacknight.org/index.html)
+* [Open Government Hack Night](http://chihacknight.org)
 * [Freedom of Information Act] (http://www.foia.gov/)
 * [Open Data Executive Order](http://www.cityofchicago.org/city/en/narr/foia/open_data_executiveorder.html)
 * [City of Chicago Data Portal] (https://data.cityofchicago.org/)

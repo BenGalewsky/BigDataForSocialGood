@@ -8,6 +8,7 @@
 * [Towed Vehicle Data](https://data.cityofchicago.org/Transportation/Towed-Vehicles/ygr5-vcbg)
 * [wasmycartowed.com] (http://www.wasmycartowed.com/)
 * [schoolcuts.org] (http://www.schoolcuts.org/)
+* [OpenGrid] (http://opengrid.io/)
 * [istheresewageinthechicagoriver.com/] (http://istheresewageinthechicagoriver.com/)
 * [clearstreets.org] (http://clearstreets.org/)
 * [Tribune Coverage of MyBuildingDoesntRecycle.com](http://www.chicagotribune.com/business/ct-confidential-recycling-shaming-0426-biz-20150424-column.html)
@@ -17,14 +18,21 @@
 * [Potholes Filled](https://data.cityofchicago.org/Service-Requests/Potholes-Patched-Last-Seven-Days/xpdx-8ivx)
 * [Chicago Crime Data](https://data.cityofchicago.org/Public-Safety/Crimes-2001-to-present/ijzp-q8t2)
 * [Divvy Bike Data] (https://www.divvybikes.com/datachallenge)
+* [Illinois Campaign Finance Data] (https://www.illinoissunshine.org/about/#data)
 * [Open Government Hack Night Resources] (http://chihacknight.org/data-resources.html)
 
+## Some more interesting projects
+* [e-coli-beach-predictions] (https://github.com/Chicago/e-coli-beach-predictions)
+* [Personalized Bike Routing] (https://project-pavement.herokuapp.com/)
+* [Super Mayor Emanuel] (http://supermayor.io/)
+* 
 ## Useful tools of the trade
 * [Tabula] (http://tabula.technology/)
 * [import.io] (https://import.io/)
 * [Pentaho Data Integration] (http://community.pentaho.com/projects/data-integration/)
 * [Tableau Public](https://public.tableau.com/s/gallery)
 * [Apache Pig] (https://pig.apache.org/)
+* [Apache Spark] (https://spark.apache.org/)
 * [Open Government Hack Night Project Repos] (http://chihacknight.org/open-source-projects.html)
 
 ## Project Oasis

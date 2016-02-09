@@ -25,7 +25,7 @@
 * [e-coli-beach-predictions] (https://github.com/Chicago/e-coli-beach-predictions)
 * [Personalized Bike Routing] (https://project-pavement.herokuapp.com/)
 * [Super Mayor Emanuel] (http://supermayor.io/)
-* 
+
 ## Useful tools of the trade
 * [Tabula] (http://tabula.technology/)
 * [import.io] (https://import.io/)
